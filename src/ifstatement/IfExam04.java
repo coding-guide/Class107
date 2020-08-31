@@ -3,8 +3,12 @@ package ifstatement;
 public class IfExam04 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+// g : ±Ýµµ³¢  s : Àºµµ³¢   b: ¼èµµ³¢  ±×¿Ü : µµ³¢°¡ ¾Æ´Õ´Ï´Ù.
+//		8¿ù 31ÀÏ °úÁ¦ÀÓ. 
+		char ch = 'a';
+		if(ch=='g') {
+			System.out.println("±Ýµµ³¢ÀÔ´Ï´Ù.");
+		}
 	}
 
 }
