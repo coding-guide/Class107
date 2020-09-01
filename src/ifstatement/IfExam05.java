@@ -28,7 +28,7 @@ public class IfExam05 {
 		}else if(month==6) {
 			System.out.println("30일입니다.");
 		}else if(month==7) {
-			System.out.println("");
+			System.out.println("31일입니다.");
 		}else if(month==8) {
 			System.out.println("31일입니다.");
 		}else if(month==9) {
