@@ -12,6 +12,7 @@ public class SumOfNum {
 		}
 		System.out.println("9999까지의 합은 : "+sum);
 
+
 	}
 
 }
