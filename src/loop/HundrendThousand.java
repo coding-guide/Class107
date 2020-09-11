@@ -7,7 +7,7 @@ public class HundrendThousand {
 		//넘어가는 순간 for문을 종료하고 마지막으로 더해진 값을 구하여라
 		// 고민...
 		int sum = 0;
-		for(int cnt = 1;  ;cnt++) {
+		for(int cnt = 1;   ;cnt++) {
 			
 		}
 	}
